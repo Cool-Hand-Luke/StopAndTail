@@ -1,0 +1,15 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>12F675</device>
+    <tool>sdcc</tool>
+    <programmer>pickit2</programmer>
+    <files>
+      <item>main.c</item>
+    </files>
+    <opened_files>
+      <item>main.c</item>
+    </opened_files>
+  </general>
+  <editors/>
+</piklab>
